@@ -1,0 +1,9 @@
+{
+  "name": "tableauextension_about",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "태블로에관한코드작성",
+  "repository": "https://github.com/km20646/tableau_extension/blob/master/README.md",
+  "author": "이재혁"
+}
